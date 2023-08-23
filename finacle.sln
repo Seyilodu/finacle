@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finacle", "finacle.csproj", "{59F0FBCA-ADC7-4734-959D-56914A0B9EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F0FBCA-ADC7-4734-959D-56914A0B9EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F0FBCA-ADC7-4734-959D-56914A0B9EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F0FBCA-ADC7-4734-959D-56914A0B9EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F0FBCA-ADC7-4734-959D-56914A0B9EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8893A543-F708-4089-B1A3-28E5AE24EA70}
+	EndGlobalSection
+EndGlobal
